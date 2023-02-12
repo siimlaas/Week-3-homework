@@ -36,7 +36,7 @@ html {
     border-radius: 5%;
     position: relative;
     animation: slide-from-bottom 2s ease-in-out;
-    height: 500px;
+    
 }
 @keyframes slide-from-bottom {
     80% {bottom: 1.5rem;}
